@@ -38,6 +38,31 @@ header ul {
   width: 50%;
 }
 p {
+    text-align: center;
 padding: 25px;
 }
+.media {
+    padding:30px;
+}
 
+h2 {
+   text-align: center;
+}
+footer {
+    background-color:#7D8E90;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 120px;
+    margin: 0px;
+    margin-top: 30px;
+}
+.footLogo {
+    height: 93px;
+    width: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 25px;
+}
